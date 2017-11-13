@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hat
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hat\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cl\ st\ pr
+comment1.target=Hat(java.lang.String,\ boolean,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+numComments=4

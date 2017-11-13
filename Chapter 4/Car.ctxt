@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cl\ cv
+comment1.target=Car(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=
+comment3.target=boolean\ getConvertable()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=boolean\ equals(Car)
+numComments=6
